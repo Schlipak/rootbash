@@ -12,7 +12,7 @@ sudo make
 
 If you can't `make` as root, the ownership or sticky bits of the program won't be set properly and it won't do its job!
 
-No `make install` for you, because this is a risky program, so put it in your `$PATH` yourself if you're REALLY sure.
+No `make install` for you, because this is a risky program, so put it in your `$PATH` yourself if you're *really* sure.
 
 ### Usage
 ``` sh
@@ -20,4 +20,4 @@ rootbash [SHELL_PATH]
 ```
 
 ### Disclaimer
-I am obviously not responsible of the damage that you can cause to your system through the misuse of Rootbash, please be carefull what you type in your terminal!
+I am not responsible of the damage that you can cause to your system through the misuse of this program, please be carefull what you type in your terminal!
